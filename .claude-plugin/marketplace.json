@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hon-plugins",
+  "version": "1.0.0",
+  "description": "Marketplace metadata for the local Claude Code plugin workspace.",
+  "owner": {
+    "name": "Local Workspace",
+    "email": "support@example.com"
+  },
+  "plugins": [
+    {
+      "name": "jira-assistant",
+      "description": "Integrate Jira issue management directly into Claude Code with issue creation, search, updates, comments, transitions, and sprint info.",
+      "source": "../plugins/jira-assistant",
+      "category": "productivity"
+    }
+  ]
+}
