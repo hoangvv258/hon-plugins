@@ -1,0 +1,9 @@
+{
+  "name": "jira-assistant",
+  "version": "0.1.0",
+  "description": "Manage Jira issues directly from Claude Code. Create, search, update, and transition issues with intelligent analysis capabilities.",
+  "author": {
+    "name": "Jira Assistant Contributors"
+  },
+  "keywords": ["jira", "issue-management", "agile", "project-management"]
+}
